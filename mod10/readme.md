@@ -1,6 +1,6 @@
 # Scikit-Learn Tutorial
 
-Welcome to the Scikit-Learn tutorial! This tutorial will guide you through the process of analyzing sales data using the Scikit-Learn library in Python.
+Welcome! This repository contains a Jupyter Notebook tutorial on Scikit-learn. This Jupyter Notebook is an updated version of the DataQuest tutorial by Satyabrata Pal (2018) found at https://www.dataquest.io/blog/sci-kit-learn-tutorial/. In addition to putting the tutorial in a Jupyter Notebook format, it updates the dataset `url` location since the original is no longer available. It also includes minor updates for new package versions and editorial corrections.  
 
 ## Prerequisites
 
@@ -21,6 +21,7 @@ Note: Yellowbrick requires the Python standard module `distutils`, which was rem
 
 ### If you are using Jupyter Notebook:
 
+3. Start Jupyter Notebook: `jupyter notebook` 
 
 ### If you are using VSCode:
 
@@ -34,7 +35,9 @@ Note: Yellowbrick requires the Python standard module `distutils`, which was rem
 
 The dataset used in this tutorial is included in the repo (`WA_Fn-UseC_-Sales-Win-Loss.csv`). It contains sales data that we will analyze using Scikit-Learn.
 
-Enjoy the tutorial, and happy learning!
+If you enjoy the tutorial, thank the original author, Satyabrata Pal at https://www.dataquest.io/blog/sci-kit-learn-tutorial/ 
+
+Happy learning!
 
 
 
