@@ -16,7 +16,7 @@ Note: Yellowbrick requires the Python standard module `distutils`, which was rem
 
 ## Getting Started
 
-1. Clone this repo to your local machine: `git clone <repo-url>`
+1. Clone this repo to your local machine: `git clone https://github.com/ciioprof0/cybv474.git`
 2. Navigate to the folder where you cloned the repo: `cd <folder-name>`
 
 ### If you are using Jupyter Notebook:
